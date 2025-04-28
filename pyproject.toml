@@ -23,3 +23,6 @@ Issues = "https://github.com/artitzco/optimitz/issues"
 
 [project.dependencies]
 bitarray = "*"
+scipy = "*"
+pandas = "*"
+numpy = "*"

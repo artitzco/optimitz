@@ -1,5 +1,4 @@
-#
-.ipynb
+# ignore .gitignore
 .gitignore
 
 # Byte-compiled / optimized / DLL files
